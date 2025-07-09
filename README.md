@@ -121,7 +121,7 @@ For demo purposes, token validation is mocked and can be easily extended.
 
 ## 📄 License
 
-This project is for evaluation purposes only. Feel free to reuse or open-source as needed.It is made by the "Jeyabalan Ganesh Nadar" for 09/07/2025
+This project is for evaluation purposes only. Feel free to reuse or open-source as needed.It is made by the "Jeyabalan Ganesh Nadar" on 09/07/2025
 
 ---
 
